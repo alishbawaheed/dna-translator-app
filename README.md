@@ -23,8 +23,11 @@ A Python-based **Streamlit web application** that translates input DNA sequences
 
 ## 📸 Screenshots
 
-### 🧬 Web Interface
-![App Screenshot](screenshot.png)
+### 🧭 GUI Interface
+![GUI Screenshot](gui.png)
+
+### 📊 Graphical Output
+![Graph Screenshot](graph.png)
 
 ---
 
